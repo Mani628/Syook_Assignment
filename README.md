@@ -10,13 +10,6 @@ A Python application that detects movement of a BLE tag by analyzing acceleromet
 - Support for both accelerometer and iBeacon packet formats
 - Comprehensive logging system
 
-
-## Prerequisites
-
-- Windows 10/11
-- Bluetooth adapter
-- Python 3.9+ 
-
 ## Project Structure
 
 ```
