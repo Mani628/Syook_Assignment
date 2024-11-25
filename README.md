@@ -24,7 +24,8 @@ ble-scanner/
 1. Create and activate virtual environment:
 ```bash
 python -m venv venv
-venv\Scripts\activate
+source venv/bin/activate  # For Linux/macOS
+venv\Scripts\activate     # For Windows
 ```
 
 2. Install requirements:
