@@ -21,7 +21,13 @@ ble-scanner/
 
 ## Installation and Running
 
-1. Create and activate virtual environment:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mani628/Syook_Assignment.git
+   cd Syook_Assignment
+   ```
+
+2. Create and activate virtual environment:
 ```bash
 python -m venv venv
 source venv/bin/activate  # For Linux/macOS
